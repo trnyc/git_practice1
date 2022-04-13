@@ -7,5 +7,13 @@ public class HelloWorld {
 
     // Doing awesome work 3
 
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+
+
+    }
+
+
+
 
 }
